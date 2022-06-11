@@ -1,0 +1,8 @@
+C:\curso\Prova\Prova\bin\Debug\Prova.exe.config
+C:\curso\Prova\Prova\bin\Debug\Prova.exe
+C:\curso\Prova\Prova\bin\Debug\Prova.pdb
+C:\curso\Prova\Prova\obj\Debug\Prova.csproj.AssemblyReference.cache
+C:\curso\Prova\Prova\obj\Debug\Prova.csproj.SuggestedBindingRedirects.cache
+C:\curso\Prova\Prova\obj\Debug\Prova.csproj.CoreCompileInputs.cache
+C:\curso\Prova\Prova\obj\Debug\Prova.exe
+C:\curso\Prova\Prova\obj\Debug\Prova.pdb
